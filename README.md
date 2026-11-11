@@ -1,9 +1,9 @@
+
 <div align="center">
 
-# Hi, I'm Pritam Barua 👋
+![Pritam Barua — Developer Banner](./assets/profile-banner.png)
 
-### Third-year Computer Science & Engineering undergraduate
-**Sikkim Manipal Institute of Technology · Graduating 2028**
+### Computer Science & Engineering Undergraduate · SMIT · Class of 2028
 
 I enjoy building web applications, exploring AI/ML, and turning ideas into useful software.
 
@@ -17,9 +17,9 @@ I enjoy building web applications, exploring AI/ML, and turning ideas into usefu
 
 ## About Me
 
-- 🎓 Pursuing a B.Tech in **Computer Science and Engineering** at SMIT.
-- 💻 Interested in **full-stack development**, **AI/ML**, and software engineering.
-- 🧩 I enjoy working on practical projects, experimenting with new technologies, and learning by building.
+- 🎓 Pursuing a B.Tech in **Computer Science and Engineering** at Sikkim Manipal Institute of Technology.
+- 💻 Interested in **Full-Stack Development, AI/ML, and DevOps**.
+- 🧩 I enjoy building practical projects, exploring new technologies, and learning by building.
 - 🏆 Reached the **Top 100 teams** (Round 2) at **WCC Forge 48 2026**.
 
 ## Tech Stack
@@ -46,32 +46,56 @@ I enjoy building web applications, exploring AI/ML, and turning ideas into usefu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## Selected Projects
+---
 
-### [ContextFinder](https://github.com/PritamBarua2006/ContextFinder)
-An evidence-led project handover tool designed to help teams preserve useful project context when a team member leaves.  
-*Repository forked from [Chief-Ethical-Programmer/ContextFinder](https://github.com/Chief-Ethical-Programmer/ContextFinder).*
+## Featured Projects
 
-### [Personal Expense Tracker](https://github.com/PritamBarua2006/expense-tracker)
-A full-stack expense tracking application with transaction management, category filtering, and interactive spending visualizations.
+### 1. ContextFinder
 
-**Built with:** Node.js · Express.js · MongoDB · Chart.js
+[![Repository](https://img.shields.io/badge/GitHub-ContextFinder-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/ContextFinder)
 
-### [Portfolio Website](https://pritambarua-portfolio.netlify.app/)
-My personal website, bringing together my background, skills, projects, and ways to connect.
+An evidence-led project handover tool designed to help teams preserve important project context when a team member leaves.
+
+*Forked from [Chief-Ethical-Programmer/ContextFinder](https://github.com/Chief-Ethical-Programmer/ContextFinder).*
+
+### 2. Personal Expense Tracker
+
+[![Repository](https://img.shields.io/badge/GitHub-Expense%20Tracker-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/expense-tracker)
+
+A full-stack expense tracking application featuring transaction management, category filtering, payment-method tracking, and interactive spending visualizations.
+
+**Technologies:** Node.js · Express.js · MongoDB · Chart.js
+
+### 3. Portfolio Website
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://pritambarua-portfolio.netlify.app/)
+
+My personal portfolio showcasing my background, technical skills, projects, and achievements.
+
+---
 
 ## Research & Hackathons
 
-- **WCC Forge 48 2026 — ProjectPulse:** Reached the second round, placing among the **Top 100 of 1,000 teams**. Contributed to frontend development and integrations.
-- **Audio Question Answering (AQA):** Academic project work related to the DCASE 2025 Task, exploring audio understanding and question answering.
+**WCC Forge 48 2026 — ProjectPulse**
+
+- Reached the **second round (Top 100 among 1,000 teams)**.
+- Contributed to frontend development and integrations.
+- Worked on a solution focused on preserving project knowledge and generating structured team handovers.
+
+**Audio Question Answering (AQA)**
+
+- Academic research project related to the DCASE 2025 Task.
+- Exploring audio understanding and question-answering systems.
+
+---
 
 ## GitHub Overview
 
 <div align="center">
 
-[![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=PritamBarua2006&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)](https://github.com/PritamBarua2006)
+[![GitHub Followers](https://img.shields.io/github/followers/PritamBarua2006?style=for-the-badge&logo=github&label=Followers)](https://github.com/PritamBarua2006?tab=followers)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamBarua2006&layout=compact&hide_border=true&theme=github_dark)](https://github.com/PritamBarua2006)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/PritamBarua2006?tab=repositories)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PritamBarua2006&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
@@ -79,7 +103,15 @@ My personal website, bringing together my background, skills, projects, and ways
 
 ---
 
+## Let's Connect
+
 <div align="center">
+
+**Interested in technology, collaboration, and building meaningful projects.**
+
+[Portfolio](https://pritambarua-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/pritam-barua-83381231a/) · [GitHub](https://github.com/PritamBarua2006) · [Email](mailto:pritambarua120@gmail.com)
+
+<br>
 
 *Always learning. Always building.*
 
