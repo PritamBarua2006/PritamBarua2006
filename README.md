@@ -7,10 +7,6 @@
 
 I enjoy building web applications, exploring AI/ML, and turning ideas into useful software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pritambarua-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-barua-83381231a/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritambarua120@gmail.com)
-
 </div>
 
 ---
@@ -20,7 +16,9 @@ I enjoy building web applications, exploring AI/ML, and turning ideas into usefu
 - 🎓 Pursuing a B.Tech in **Computer Science and Engineering** at Sikkim Manipal Institute of Technology.
 - 💻 Interested in **Full-Stack Development, AI/ML, and DevOps**.
 - 🧩 I enjoy building practical projects, exploring new technologies, and learning by building.
-- 🏆 Reached the **Top 100 teams** (Round 2) at **WCC Forge 48 2026**.
+- 🏆 Reached the **Top 100 teams (Round 2)** at **WCC Forge 48 2026**.
+
+---
 
 ## Tech Stack
 
@@ -52,7 +50,7 @@ I enjoy building web applications, exploring AI/ML, and turning ideas into usefu
 
 ### 1. ContextFinder
 
-[![Repository](https://img.shields.io/badge/GitHub-ContextFinder-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/ContextFinder)
+[![GitHub](https://img.shields.io/badge/GitHub-ContextFinder-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/ContextFinder)
 
 An evidence-led project handover tool designed to help teams preserve important project context when a team member leaves.
 
@@ -60,7 +58,7 @@ An evidence-led project handover tool designed to help teams preserve important 
 
 ### 2. Personal Expense Tracker
 
-[![Repository](https://img.shields.io/badge/GitHub-Expense%20Tracker-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/expense-tracker)
+[![GitHub](https://img.shields.io/badge/GitHub-Expense%20Tracker-181717?style=flat&logo=github)](https://github.com/PritamBarua2006/expense-tracker)
 
 A full-stack expense tracking application featuring transaction management, category filtering, payment-method tracking, and interactive spending visualizations.
 
@@ -76,13 +74,13 @@ My personal portfolio showcasing my background, technical skills, projects, and 
 
 ## Research & Hackathons
 
-**WCC Forge 48 2026 — ProjectPulse**
+### WCC Forge 48 2026 — ProjectPulse
 
 - Reached the **second round (Top 100 among 1,000 teams)**.
 - Contributed to frontend development and integrations.
 - Worked on a solution focused on preserving project knowledge and generating structured team handovers.
 
-**Audio Question Answering (AQA)**
+### Audio Question Answering (AQA)
 
 - Academic research project related to the DCASE 2025 Task.
 - Exploring audio understanding and question-answering systems.
@@ -95,24 +93,16 @@ My personal portfolio showcasing my background, technical skills, projects, and 
 
 [![GitHub Followers](https://img.shields.io/github/followers/PritamBarua2006?style=for-the-badge&logo=github&label=Followers)](https://github.com/PritamBarua2006?tab=followers)
 
-[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/PritamBarua2006?tab=repositories)
+[![GitHub Stars](https://img.shields.io/github/stars/PritamBarua2006?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/PritamBarua2006?tab=stars)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PritamBarua2006&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/PritamBarua2006?tab=repositories)
 
 </div>
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
-**Interested in technology, collaboration, and building meaningful projects.**
-
-[Portfolio](https://pritambarua-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/pritam-barua-83381231a/) · [GitHub](https://github.com/PritamBarua2006) · [Email](mailto:pritambarua120@gmail.com)
-
-<br>
-
-*Always learning. Always building.*
+### Always Learning. Always Building.
 
 </div>
